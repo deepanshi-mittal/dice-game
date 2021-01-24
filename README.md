@@ -1,2 +1,1 @@
-# dice-game
- Dice game using html, css and javascript
+A web based dice game which is created using HTML5, CSS3 and javascript.
